@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlgoritmoMochila",
+            "request": "launch",
+            "mainClass": "AlgoritmoMochila",
+            "projectName": "artificial_intelligence_algorithms_cdafcb28"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack",
+            "projectName": "artificial_intelligence_algorithms_cdafcb28"
+        }
+    ]
+}
